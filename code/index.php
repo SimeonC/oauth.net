@@ -160,6 +160,7 @@ require('../includes/_header.php');
       </li>
       <li>Javascript
         <ul>
+          <li><a href="https://github.com/mulesoft/js-client-oauth2">js-client-oauth2</a></li>
           <li><a href="http://github.com/andreassolberg/jso">Javascript</a></li>
           <li><a href="https://github.com/zalando/oauth2-client-js">OAuth2-client-js</a></li>
           <li><a href="https://github.com/salte-io/salte-auth">Salte Auth</a></li>
